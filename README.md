@@ -2,6 +2,9 @@
 
 Adds clickable snippets to the sidebar for text editing
 
+https://github.com/geany/geany
+
+
 ## Compile
 
 **Debian 13 (Trixie):**
