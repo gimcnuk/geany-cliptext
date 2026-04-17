@@ -4,6 +4,11 @@ Adds clickable snippets to the sidebar for text editing
 
 https://github.com/geany/geany
 
+## Screenshot
+
+![div insertion](https://github.com/gimcnuk/geany-cliptext/blob/main/Clipboard%201.png)
+
+
 
 ## Compile
 
